@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🎓 Currently studying Software Engineering at HAN University of Applied Sciences
+- 🔭 Small sideprojects
+- ♨ Favourite language Java
+- Also know a couple of things in Javascript, Rust, SQL
+
+If you need me, let me know :)
+
 <!--
 **harmvdhorst/harmvdhorst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
