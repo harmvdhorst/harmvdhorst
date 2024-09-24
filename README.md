@@ -3,7 +3,7 @@
 - 🎓 Currently studying Software Engineering at HAN University of Applied Sciences
 - 🔭 Small sideprojects
 - ♨ Favourite language Java
-- Also know a couple of things in Javascript, Rust, SQL
+- 🤔 Also know a couple of things in Javascript, Rust, SQL
 
 If you need me, let me know :)
 
