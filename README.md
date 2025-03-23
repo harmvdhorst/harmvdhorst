@@ -3,7 +3,18 @@
 - 🎓 Currently studying Software Engineering at HAN University of Applied Sciences
 - 🔭 Small sideprojects
 - ♨ Favourite language Java
-- 🤔 Also know a couple of things in Javascript, Rust, SQL
+
+Skills:
+- ♨ Java, JS/TS, PHP, C++
+- 📜 SQL (MySQL, MSSQL Server)
+- 🤖 Android app development
+- 🎮 Game development (Godot)
+- 🖥 Arduino
+
+Other intrests:
+- 🔢 Bytecode manipulation
+- 💾 Emulators
+
 
 If you need me, let me know :)
 
