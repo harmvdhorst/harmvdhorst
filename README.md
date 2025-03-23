@@ -7,9 +7,10 @@
 Skills:
 - ♨ Java, JS/TS, PHP, C++
 - 📜 SQL (MySQL, MSSQL Server)
+- 💻 Web Development (HTML/CSS, Wordpress)
 - 🤖 Android app development
 - 🎮 Game development (Godot)
-- 🖥 Arduino
+- ⌨️ Arduino
 
 Other intrests:
 - 🔢 Bytecode manipulation
